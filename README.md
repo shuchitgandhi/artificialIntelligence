@@ -10,3 +10,5 @@ Course Projects for Artificial Intelligence
 4. Group 5 - Music ChatBot Recommendation System: https://github.com/sai-sruthi/ChatBot
 
 5. Group 4 - 20 Question Problem: https://github.com/tanayagl/Twenty-Questions
+
+6. Group 8 - Sports Chat Bot: https://github.com/19shubham11/sports-chat-bot
