@@ -8,3 +8,5 @@ Course Projects for Artificial Intelligence
 3. Group 3 - Flight Recommendation System: https://github.com/sahiljain112/flight-bot
 
 4. Group 5 - Music ChatBot Recommendation System: https://github.com/sai-sruthi/ChatBot
+
+5. Group 4 - 20 Question Problem: https://github.com/tanayagl/Twenty-Questions
